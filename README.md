@@ -8,6 +8,5 @@ Bu projede swiftin VFL yapısını kullanarak tasarım yaptık
 * En sonda tasarımı sayfaya eşit şekilde bölerek tam ekran yapma
 
 ##### Uygulamanın Örnek Resimleri
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 13 37 14](https://github.com/user-attachments/assets/b495dc0d-e63b-4138-8fb8-7baf98abd27b)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 13 36 50](https://github.com/user-attachments/assets/27f91bcb-8cb7-4417-8ba0-9155d8a83e63)
-
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 14 10 29](https://github.com/user-attachments/assets/414a028f-feff-4385-8c02-1db94826eec7)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 14 10 01](https://github.com/user-attachments/assets/a5e780a6-4153-4b51-99b9-d9bc07c09216)
